@@ -4,3 +4,8 @@ font-family: "Gill Sans"; }
 h1 { text-align:left; font-weight: bold; font-style:normal;
 text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.645);}
 
+img {
+    border: 5px solid #555;
+}
+
+h3 { text-decoration:black underline}
